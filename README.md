@@ -32,7 +32,6 @@ By default, flask will run on port 5000.
 Homepage View:-   
    
 ![Screenshot (1947)](https://user-images.githubusercontent.com/54064843/136835220-86a8f698-6ce1-4fd7-a4ed-2b5d0601d29a.png)
-![Screenshot (1945)](https://user-images.githubusercontent.com/54064843/136835236-bed14ecc-0227-425d-9036-6d46846e1f5c.png)
 
 
 By clicking on the Source and Destination cities available ,you will land on the wiki page of that city and by clicking on the airline names(e.g Vistara) under the Airline Available tag these links will direct you to their respective official site  where you can further book tickets. The Github link under Connect tag brings you here:)  
